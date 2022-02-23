@@ -1,6 +1,6 @@
 # Capstone 3 Silver ETFs Price Forecast
 
-TThe scope of this project is focused on SILVER weekly commodity pricing forecasting. 
+The scope of this project is focused on SILVER weekly commodity pricing forecasting. 
 The goal of this project is to understand and apply time-series models like ARIMA, SARIMA in forecasting the price of silver.
 
 
